@@ -1,8 +1,6 @@
 <script>
-
     import { Capacitor } from "@capacitor/core";
 	import { StatusBar, Style } from '@capacitor/status-bar';
-
     import { onMount } from 'svelte';
 
 	onMount(async () => {
