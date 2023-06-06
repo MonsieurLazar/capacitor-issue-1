@@ -8,6 +8,7 @@
             StatusBar.setBackgroundColor({
                 color: "#ff715b"
             })
+            StatusBar.setOverlaysWebView({ overlay: true });
 		}
 	});
 </script>
